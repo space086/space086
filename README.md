@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 <h3 align="center"><b>📚 Studying 💻</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
-
+</br>
+</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space086&show_icons=true&theme=radical)
