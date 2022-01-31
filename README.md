@@ -1,8 +1,4 @@
-#<center> 
- Hi there <img src=https://user-images.githubusercontent.com/97451725/151696858-6cba7286-d396-4a3f-a074-fca32dbd3835.gif width="50" height="50" />
- I'm Eunhee !
- </center>
-
+### Hi there <img src=https://user-images.githubusercontent.com/97451725/151696858-6cba7286-d396-4a3f-a074-fca32dbd3835.gif width="50" height="50" />
 
 
 <!--
