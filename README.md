@@ -7,6 +7,8 @@
 
 velog 
 https://velog.io/@space086
+tistory
+https://slower-space.tistory.com/
 
 <!--
 **space086/space086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
